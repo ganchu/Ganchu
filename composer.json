@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/ganchu",
+    "name": "ganchu/ganchu",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "ganchu",
+            "email": "ganchu@gmail.com"
         }
     ],
     "extra": {
