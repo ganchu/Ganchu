@@ -1,6 +1,8 @@
 {
-    "name": "ganchu/ganchu",
-    "description": "",
+    "name": "ganchu/ganchu-module",
+    "description": "测试",
+    "version": "dev",
+    "type":"laravel-module",
     "authors": [
         {
             "name": "ganchu",
