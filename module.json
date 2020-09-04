@@ -1,0 +1,13 @@
+{
+    "name": "Ganchu",
+    "alias": "ganchu",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Ganchu\\Providers\\GanchuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
