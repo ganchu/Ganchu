@@ -1,5 +1,5 @@
 {
-    "name": "ganchu/ganchu-module",
+    "name": "Modules/ganchu-module",
     "description": "测试",
     "version": "dev",
     "type":"laravel-module",
