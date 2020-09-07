@@ -1,8 +1,6 @@
 {
     "name": "ganchu/ganchu",
     "description": "测试",
-    "version": "1.0",
-    "type":"laravel-module",
     "authors": [
         {
             "name": "ganchu",
@@ -11,7 +9,9 @@
     ],
     "extra": {
         "laravel": {
-            "providers": [],
+            "providers": [
+                "Modules\\Ganchu\\Providers\\GanchuServiceProvider"
+            ],
             "aliases": {
 
             }
